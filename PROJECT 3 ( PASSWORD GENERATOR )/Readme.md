@@ -14,4 +14,4 @@ This is a Python-based terminal application to generate secure and customizable 
 ##  How to Run
 
 ```bash
-python password_generator.py
+python Pass generator.py
